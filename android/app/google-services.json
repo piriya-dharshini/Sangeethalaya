@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "971800851112",
+    "firebase_url": "https://sangeethalaya-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sangeethalaya",
+    "storage_bucket": "sangeethalaya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971800851112:android:d649c811640ce0cf5c489d",
+        "android_client_info": {
+          "package_name": "com.example.sangeethalaya_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOhCdXzKUAjIWh9sHjZgGokj3YPYDS8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971800851112:android:00d2fa481e9d51265c489d",
+        "android_client_info": {
+          "package_name": "com.piriyadharshini.Sangeethalaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOhCdXzKUAjIWh9sHjZgGokj3YPYDS8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
