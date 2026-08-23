@@ -16,8 +16,8 @@ A Carnatic Library app to access all songs from kritis, keerthanai's, bhajans an
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1e631c03-fe94-44f2-8923-4bd6c2128ad8" width="300" />
-  <img src="https://github.com/user-attachments/assets/642d25ed-6fa7-42e1-a402-0771db223521" width="300" />
+  <img src="https://github.com/user-attachments/assets/1e631c03-fe94-44f2-8923-4bd6c2128ad8" width="200" />
+  <img src="https://github.com/user-attachments/assets/642d25ed-6fa7-42e1-a402-0771db223521" width="200" />
 </div>
 
 ## Suggestions & Queries
