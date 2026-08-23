@@ -1,6 +1,9 @@
-# sangeethalaya_app
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a692cf09-92d2-47dd-84e5-b5633a05b7ac" width="150" />
+  <h1>Sangeethalaya</h1>
 
-A Carnatic Library app to access all songs from kritis, keerthanai's, bhajans and shlokas for group performances as well as solo performances.
+  <p>A Carnatic Library app to access all songs from kritis, keerthanai's, bhajans and shlokas for group performances as well as solo performances.</p>
+</div>
 
 ## Getting Started
 
